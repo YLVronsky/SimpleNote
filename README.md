@@ -1,5 +1,9 @@
 # 🎵 Simple Note: Desktop Media Downloader
 
+<p align="center">
+<img src="./screenshots/screen01.png" width=500px>
+</p>
+
 Легковесное десктопное приложение для загрузки и конвертации аудио из YouTube и других платформ. Разработано с использованием гибридной архитектуры **Go + React (Wails)**.
 
 ## Особенности
